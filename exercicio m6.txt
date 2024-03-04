@@ -1,0 +1,16 @@
+		Programação Orientada a Objeto
+
+    A programação orientada a objetos surgiu como uma alternativa a essas características da programação estruturada. 
+O intuito da sua criação também foi o de aproximar o manuseio das estruturas de um programa ao manuseio das coisas do 
+mundo real, daí o nome "objeto" como uma algo genérico, que pode representar qualquer coisa tangível.
+
+Esse novo paradigma se baseia principalmente em dois conceitos chave: classes e objetos. Todos os outros conceitos, 
+igualmente importantes, são construídos em cima desses dois.
+
+		Programação Procedural
+
+    A programação procedural é geralmente uma escolha melhor que a programação sequencial e não estruturada em muitas 
+situações que envolvem uma complexidade média e requerem facilidade de manutenção. Possíveis benefícios são a habilidade 
+de reutilizar o mesmo código em diferentes lugares no programa sem copiá-lo, ser uma forma mais fácil de organizar o 
+fluxo do programa que uma coleção de comandos "goto" ou "jump" que podem transformar um programa extenso e complexo num 
+código espaguete, e a habilidade de ser fortemente modular e estruturado.

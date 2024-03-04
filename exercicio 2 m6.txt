@@ -1,0 +1,26 @@
+		"Algoritmo AcordarLevantar"
+
+// Passo 1: Acordar
+escreva("1. Abra os olhos e desperte.")
+esperar(5) // Aguarde alguns segundos para se acostumar com a luz
+
+// Passo 2: Esticar o corpo
+escreva("2. Faça alguns alongamentos na cama.")
+esperar(10) // Tempo para realizar os alongamentos
+
+// Passo 3: Sentar-se na cama
+escreva("3. Sente-se na beirada da cama.")
+esperar(5) // Tempo para se equilibrar
+
+// Passo 4: Colocar os pés no chão
+escreva("4. Coloque os pés no chão.")
+esperar(3) // Tempo para se acostumar com a posição
+
+// Passo 5: Levantar-se
+escreva("5. Levante-se lentamente.")
+esperar(10) // Tempo para se levantar com segurança
+
+// Passo 6: Pronto para o dia
+escreva("6. Você está pronto para enfrentar o dia!")
+
+fim_algoritmo
